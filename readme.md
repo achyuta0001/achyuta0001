@@ -73,12 +73,22 @@ Outside work I build small, dependency-light tools in **Go**, **Python** and **S
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=achyuta0001&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=achyuta0001&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=achyuta0001&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Stats
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=achyuta0001&theme=nightowl&hide_border=true&bg_color=00000000&hide_title=true&card_width=420">
+    <img height="165" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=achyuta0001&theme=graywhite&hide_border=true&bg_color=00000000&hide_title=true&card_width=420">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=achyuta0001&theme=nightowl&hide_border=true&bg_color=00000000&layout=compact&langs_count=8&card_width=320">
+    <img height="165" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=achyuta0001&theme=graywhite&hide_border=true&bg_color=00000000&layout=compact&langs_count=8&card_width=320">
+  </picture>
+</p>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=achyuta0001&theme=nightowl&hide_border=true&background=00000000">
+    <img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=achyuta0001&theme=graywhite&hide_border=true&background=00000000">
+  </picture>
+</p>
