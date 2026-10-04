@@ -1,7 +1,7 @@
 <h1 align="center">Achyuta K Upadya</h1>
 
 <p align="center">
-  Full-stack engineer at a major bank · Pune, India<br/>
+  Full-stack engineer at a major bank · Bengaluru, India<br/>
   I work on the unglamorous half of shipping — getting services from a laptop to production and keeping them there.
 </p>
 
