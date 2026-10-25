@@ -23,14 +23,15 @@ Outside work I build small, dependency-light tools in **Go**, **Python** and **S
 
 | Project | | What it is |
 | :-- | :-- | :-- |
-| **[Goo](https://github.com/achyuta0001/Goo)** | `Swift` | Voice assistant for the Mac that lives in the notch. Hold a key, ask about what is on screen; it answers out loud and flies a ring of light to the exact control. Runs on an existing Claude subscription — no API key. |
 | **[Logged](https://github.com/achyuta0001/Logged)** | `TypeScript` | In-browser 3D flood explorer for Bengaluru Urban. All 117 pincodes ranked by a susceptibility index computed from Copernicus elevation and OSM drainage, then a rainfall-driven depth model per pincode. Keyless open data, no backend. |
+| **[Goo](https://github.com/achyuta0001/Goo)** | `Swift` | Voice assistant for the Mac that lives in the notch. Hold a key, ask about what is on screen; it answers out loud and flies a ring of light to the exact control. Runs on an existing Claude subscription — no API key. |
 | **[ashlar](https://github.com/achyuta0001/ashlar)** | `Go` | Embeddable append-only commit log. Segmented files, CRC-checked records, O(1) offset reads, crash recovery that truncates only an incomplete tail. Standard library only. |
-| **[tripwyre](https://github.com/achyuta0001/tripwyre)** | `Go` | Project intelligence CLI. Scans dependencies, config drift and logs into one prioritised report. Offline by default, optional LLM synthesis, ships as a GitHub Action. |
-| **[hive](https://github.com/achyuta0001/hive)** | `Python` | Source-agnostic knowledge compiler. Ingests Markdown, Notion and Confluence, clusters by embeddings, synthesises merged wiki pages and serves them to AI agents over MCP. |
 | **[obsidian-mcp](https://github.com/achyuta0001/obsidian-mcp)** | `TypeScript` | MCP server that gives AI agents a per-project notes folder inside one Obsidian vault. Six tools, git-based project inference, non-clobbering writes. |
 | **[blister](https://github.com/achyuta0001/blister)** | `Swift` | Native iOS 1:64 die-cast collection tracker. SwiftUI + SwiftData, on-device Vision OCR and segmentation, RealityKit 3D studio. No backend, no third-party dependencies. |
-| **[Kafka-Fraud-Detection](https://github.com/achyuta0001/Kafka-Fraud-Detection)** | `Java` | Event-driven microservice for real-time transaction anomaly detection — producer/consumer pipelines, stream aggregation, alerting. |
+| **[hive](https://github.com/achyuta0001/hive)** | `Python` | Source-agnostic knowledge compiler. Ingests Markdown, Notion and Confluence, clusters by embeddings, synthesises merged wiki pages and serves them to AI agents over MCP. |
+| **[tripwyre](https://github.com/achyuta0001/tripwyre)** | `Go` | Project intelligence CLI. Scans dependencies, config drift and logs into one prioritised report. Offline by default, optional LLM synthesis, ships as a GitHub Action. |
+
+Earlier: Kafka microservices for fraud detection and audit in Java ([fraud](https://github.com/achyuta0001/Kafka-Fraud-Detection), [audit](https://github.com/achyuta0001/Kafka-Audit-Service)), and a Spring service on Kubernetes ([spring-demo-kube](https://github.com/achyuta0001/spring-demo-kube)).
 
 ### Stack
 
