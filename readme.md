@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://achyuta0001.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-0A0A0A?style=flat-square&logo=githubpages&logoColor=white"></a>
   <a href="mailto:achyuta0001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://achyuta0001.github.io/photography-portfolio/"><img alt="Photography" src="https://img.shields.io/badge/Photography-111111?style=flat-square&logo=adobelightroomclassic&logoColor=31A8FF"></a>
   <a href="https://instagram.com/achyuta______"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
