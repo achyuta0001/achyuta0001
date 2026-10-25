@@ -19,6 +19,11 @@ Backend-heavy full stack: **Java + Spring** services, **Kafka** pipelines, **Ang
 
 Outside work it is native and dependency-light: **Swift** apps for the Mac and iPhone that keep their models and data on the device, **Go** systems code written against the standard library, and **MCP** servers that give coding agents the context they are missing. Usually I understand a system by rebuilding the part of it I don't understand yet.
 
+### Now
+
+- **[Goo](https://github.com/achyuta0001/Goo)** — screen-aware voice assistant for the Mac; shipping signed builds from [goo-releases](https://github.com/achyuta0001/goo-releases).
+- **[Logged](https://github.com/achyuta0001/Logged)** — the district-wide susceptibility index is live; building the detailed 3D flood model out one pincode at a time.
+
 ### Selected work
 
 | Project | | What it is | |
