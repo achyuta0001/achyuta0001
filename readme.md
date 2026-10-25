@@ -39,6 +39,8 @@ Outside work it is native and dependency-light: **Swift** apps for the Mac and i
 
 Earlier: Kafka microservices for fraud detection and audit in Java ([fraud](https://github.com/achyuta0001/Kafka-Fraud-Detection), [audit](https://github.com/achyuta0001/Kafka-Audit-Service)), and a Spring service on Kubernetes ([spring-demo-kube](https://github.com/achyuta0001/spring-demo-kube)).
 
+Where most of these start: **[ideas](https://github.com/achyuta0001/ideas)** — design notes in Markdown, each carrying the repo it turned into, or the reason it has not yet.
+
 ### Stack
 
 **Languages** &nbsp;
