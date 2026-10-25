@@ -17,7 +17,7 @@
 
 Backend-heavy full stack: **Java + Spring** services, **Kafka** pipelines, **Angular/React** front ends, and the **Jenkins / Kubernetes / Terraform** plumbing that carries them to production.
 
-Outside work I build small, dependency-light tools in **Go**, **Python** and **Swift** — usually to understand a system by rebuilding the part of it I don't understand yet.
+Outside work it is native and dependency-light: **Swift** apps for the Mac and iPhone that keep their models and data on the device, **Go** systems code written against the standard library, and **MCP** servers that give coding agents the context they are missing. Usually I understand a system by rebuilding the part of it I don't understand yet.
 
 ### Selected work
 
