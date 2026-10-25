@@ -23,6 +23,7 @@ Outside work I build small, dependency-light tools in **Go**, **Python** and **S
 
 | Project | | What it is |
 | :-- | :-- | :-- |
+| **[Goo](https://github.com/achyuta0001/Goo)** | `Swift` | Voice assistant for the Mac that lives in the notch. Hold a key, ask about what is on screen; it answers out loud and flies a ring of light to the exact control. Runs on an existing Claude subscription — no API key. |
 | **[ashlar](https://github.com/achyuta0001/ashlar)** | `Go` | Embeddable append-only commit log. Segmented files, CRC-checked records, O(1) offset reads, crash recovery that truncates only an incomplete tail. Standard library only. |
 | **[tripwyre](https://github.com/achyuta0001/tripwyre)** | `Go` | Project intelligence CLI. Scans dependencies, config drift and logs into one prioritised report. Offline by default, optional LLM synthesis, ships as a GitHub Action. |
 | **[hive](https://github.com/achyuta0001/hive)** | `Python` | Source-agnostic knowledge compiler. Ingests Markdown, Notion and Confluence, clusters by embeddings, synthesises merged wiki pages and serves them to AI agents over MCP. |
